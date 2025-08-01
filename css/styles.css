@@ -460,6 +460,11 @@ img {
 
 .footer-cantainer {
   display: flex;
+  align-items: baseline;
+}
+
+.footer-logo-container {
+  margin-right: 120px;
 }
 
 .logo-link-footer {
@@ -485,10 +490,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-}
-
-.footer-social-media {
-  margin-left: 120px;
 }
 
 .footer-links-title {
